@@ -1,4 +1,5 @@
 # Segment-Based Numeric Neural Network Classifier
+By LeeAnne King & Sara Francis
 
 A machine learning project that implements and experiments with segment-based numeric neural network classification. The repository contains code and notebooks for building, training, and evaluating classifiers on numeric data, with an emphasis on model architecture and interpretability.
 
